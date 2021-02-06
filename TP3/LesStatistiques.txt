@@ -1,0 +1,5 @@
+Céramique|1|13452.075
+Tuiles de vinyle|0|0.0
+Linoléum|0|0.0
+Bois franc|0|0.0
+Flottant|0|0.0
